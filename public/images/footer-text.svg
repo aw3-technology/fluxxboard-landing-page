@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="845px" height="139px" viewBox="0 0 845 139" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>KAVANAH</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#4E4E4E" offset="0%"></stop>
+            <stop stop-color="#202020" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#4E4E4E" offset="0%"></stop>
+            <stop stop-color="#202020" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#4E4E4E" offset="0%"></stop>
+            <stop stop-color="#202020" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#4E4E4E" offset="0%"></stop>
+            <stop stop-color="#202020" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0">
+        <g id="MacBook-Pro-16&quot;-Copy-2" transform="translate(-124, -593)" fill="#FFFFFF">
+            <g id="KAVANAH" transform="translate(116, 563)">
+                <path d="M37.8046875,30.78125 L37.8046875,85.859375 L55.464608,85.859375 L85.4450767,30.78125 L118.046562,30.78125 L80.2592342,97.3026922 L118.808053,168.5 L85.8332645,168.5 L55.2660025,111.369494 L37.8046875,111.276118 L37.8046875,168.5 L9.265625,168.5 L9.265625,30.78125 L37.8046875,30.78125 Z" id="Path" stroke="url(#linearGradient-1)" fill-rule="nonzero"></path>
+                <path d="M209.046177,30.78125 L235.409481,168.5 L207.339961,168.5 L201.773555,139.203125 L169.007695,139.203125 L163.441289,168.5 L135.371769,168.5 L161.735073,30.78125 L209.046177,30.78125 Z M185.390625,53.8704083 L173.788037,114.667969 L196.993213,114.667969 L185.390625,53.8704083 Z" id="Shape" stroke="url(#linearGradient-2)" fill-rule="nonzero"></path>
+                <path d="M280.862566,30.78125 L302.8125,145.419334 L324.762434,30.78125 L352.831356,30.78125 L326.468052,168.5 L279.156948,168.5 L252.793644,30.78125 L280.862566,30.78125 Z" id="Path" stroke="url(#linearGradient-2)" fill-rule="nonzero"></path>
+                <path d="M443.889927,30.78125 L470.253231,168.5 L442.183711,168.5 L436.617305,139.203125 L403.851445,139.203125 L398.285039,168.5 L370.215519,168.5 L396.578823,30.78125 L443.889927,30.78125 Z M420.234375,53.8704083 L408.631787,114.667969 L431.836963,114.667969 L420.234375,53.8704083 Z" id="Shape" stroke="url(#linearGradient-2)" fill-rule="nonzero"></path>
+                <path d="M542.747079,30.78125 L566.941406,142.527034 L566.941406,30.78125 L596.359375,30.78125 L596.359375,168.5 L546.919466,168.5 L523.019531,56.2455814 L523.019531,168.5 L493.601562,168.5 L493.601562,30.78125 L542.747079,30.78125 Z" id="Path" stroke="url(#linearGradient-3)" fill-rule="nonzero"></path>
+                <path d="M693.382115,30.78125 L719.745418,168.5 L691.675899,168.5 L686.109493,139.203125 L653.343632,139.203125 L647.777226,168.5 L619.707707,168.5 L646.07101,30.78125 L693.382115,30.78125 Z M669.726562,53.8704083 L658.123975,114.667969 L681.32915,114.667969 L669.726562,53.8704083 Z" id="Shape" stroke="url(#linearGradient-2)" fill-rule="nonzero"></path>
+                <path d="M772.511719,30.78125 L772.511719,86.640625 L822.097656,86.640625 L822.097656,30.78125 L851.515625,30.78125 L851.515625,168.5 L822.097656,168.5 L822.097656,111.175781 L772.511719,111.175781 L772.511719,168.5 L743.09375,168.5 L743.09375,30.78125 L772.511719,30.78125 Z" id="Path" stroke="url(#linearGradient-4)" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
