@@ -57,6 +57,9 @@ export default function RootLayout({
                     property="og:image"
                     content="%PUBLIC_URL%/fluxxboard-social-share.png"
                 />
+                <meta property="og:image:width" content="1954" />
+                <meta property="og:image:height" content="1144" />
+                <meta property="og:image:type" content="image/png" />
                 <meta
                     property="og:description"
                     content="AI-powered task manager. Capture every idea in 3 seconds. Turn scattered thoughts into shipped projects."
