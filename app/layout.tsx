@@ -51,7 +51,7 @@ export default function RootLayout({
                 <meta property="og:type" content="Article" />
                 <meta
                     property="og:url"
-                    content="https://ui8.net/ui8/products/bento-cards-simplelist"
+                    content="https://fluxxboard-landing-page.vercel.app"
                 />
                 <meta
                     property="og:image"
@@ -74,7 +74,7 @@ export default function RootLayout({
                 <meta property="og:title" content="Fluxxboard" />
                 <meta
                     property="og:url"
-                    content="https://ui8.net/ui8/products/bento-cards-simplelist"
+                    content="https://fluxxboard-landing-page.vercel.app"
                 />
                 <meta
                     property="og:image"
@@ -89,7 +89,7 @@ export default function RootLayout({
                 <meta property="og:title" content="Fluxxboard" />
                 <meta
                     property="og:url"
-                    content="https://ui8.net/ui8/products/bento-cards-simplelist"
+                    content="https://fluxxboard-landing-page.vercel.app"
                 />
                 <meta
                     property="og:image"
