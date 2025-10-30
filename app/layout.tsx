@@ -43,7 +43,7 @@ export default function RootLayout({
                 {/* Twitter Summary card images must be at least 120x120px */}
                 <meta
                     name="twitter:image"
-                    content="%PUBLIC_URL%/twitter-card.png"
+                    content="%PUBLIC_URL%/fluxxboard-social-share.png"
                 />
 
                 {/* Open Graph data for Facebook */}
@@ -55,7 +55,7 @@ export default function RootLayout({
                 />
                 <meta
                     property="og:image"
-                    content="%PUBLIC_URL%/fb-og-image.png"
+                    content="%PUBLIC_URL%/fluxxboard-social-share.png"
                 />
                 <meta
                     property="og:description"
@@ -75,7 +75,7 @@ export default function RootLayout({
                 />
                 <meta
                     property="og:image"
-                    content="%PUBLIC_URL%/linkedin-og-image.png"
+                    content="%PUBLIC_URL%/fluxxboard-social-share.png"
                 />
                 <meta
                     property="og:description"
@@ -90,7 +90,7 @@ export default function RootLayout({
                 />
                 <meta
                     property="og:image"
-                    content="%PUBLIC_URL%/pinterest-og-image.png"
+                    content="%PUBLIC_URL%/fluxxboard-social-share.png"
                 />
                 <meta
                     property="og:description"
