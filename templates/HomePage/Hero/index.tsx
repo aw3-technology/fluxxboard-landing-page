@@ -24,26 +24,6 @@ const Hero = ({}: HeroProps) => (
                 <div className={styles.version}>Free forever. Premium AI features for $10/month.</div>
             </div>
             <Images />
-            <div className={styles.foot}>
-                <div className={styles.stats}>
-                    <div className={styles.stat}>
-                        <div className={styles.statValue}>1000+</div>
-                        <div className={styles.statLabel}>Ideas Organized</div>
-                    </div>
-                    <div className={styles.stat}>
-                        <div className={styles.statValue}>3 sec</div>
-                        <div className={styles.statLabel}>Capture Time</div>
-                    </div>
-                    <div className={styles.stat}>
-                        <div className={styles.statValue}>50</div>
-                        <div className={styles.statLabel}>AI Insights Daily</div>
-                    </div>
-                    <div className={styles.stat}>
-                        <div className={styles.statValue}>2 hrs</div>
-                        <div className={styles.statLabel}>Saved Per Week</div>
-                    </div>
-                </div>
-            </div>
         </div>
         {/* <Stars /> */}
     </div>
