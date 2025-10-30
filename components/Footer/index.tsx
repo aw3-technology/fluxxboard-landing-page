@@ -19,11 +19,11 @@ const Footer = ({}: FooterProps) => {
                         <Link className={styles.logo} href="/">
                             <Image
                                 className={styles.image}
-                                src="/images/kavanah-star.png"
+                                src="/images/fluxxboard-star.png"
                                 priority={true}
                                 width={64}
                                 height={64}
-                                alt="Kavanah"
+                                alt="Fluxxboard"
                             />
                         </Link>
                         <div className={styles.text}>

@@ -31,11 +31,11 @@ const Header = ({}: HeaderProps) => {
                     <Link className={styles.logo} href="/">
                         <Image
                             className={styles.image}
-                            src="/images/kavanah-logo.png"
+                            src="/images/fluxxboard-logo.png"
                             priority={true}
-                            width={200}
+                            width={260}
                             height={60}
-                            alt="Kavanah"
+                            alt="Fluxxboard"
                         />
                     </Link>
                     <Button

@@ -1,19 +1,19 @@
 export const faq = [
     {
         id: "0",
-        title: "Is Kavanah free to use?",
+        title: "Is Fluxxboard free to use?",
         content:
-            "Yes, Kavanah offers a free version with all essential features. We also offer a premium version with advanced features for power users.",
+            "Yes, Fluxxboard offers a free version with all essential features. We also offer a premium version with advanced features for power users.",
     },
     {
         id: "1",
         title: "Can I sync my lists across multiple devices?",
         content:
-            "Absolutely! Kavanah automatically syncs your lists across all your devices in real-time, ensuring you always have access to your most up-to-date information.",
+            "Absolutely! FluxxBoard automatically syncs your lists across all your devices in real-time, ensuring you always have access to your most up-to-date information.",
     },
     {
         id: "2",
-        title: "How secure is my data on Kavanah?",
+        title: "How secure is my data on Fluxxboard?",
         content:
             "We take data security seriously. All your data is encrypted both in transit and at rest. We use industry-standard security protocols to ensure your information remains private and protected.",
     },
@@ -21,7 +21,7 @@ export const faq = [
         id: "3",
         title: "Can I share my lists with others?",
         content:
-            "Yes, Kavanah allows you to share specific lists with family, friends, or colleagues. You can control who has view-only or edit access to each shared list.",
+            "Yes, Fluxxboard allows you to share specific lists with family, friends, or colleagues. You can control who has view-only or edit access to each shared list.",
     },
     {
         id: "4",

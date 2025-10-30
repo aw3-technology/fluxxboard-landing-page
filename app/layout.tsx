@@ -15,7 +15,7 @@ const rubik = Rubik({
 });
 
 export const metadata: Metadata = {
-    title: "Kavanah",
+    title: "FluxxBoard",
     description: "AI-powered task manager. Capture every idea in 3 seconds. AI organizes them instantly. Turn scattered thoughts into shipped projects.",
 };
 
@@ -28,13 +28,13 @@ export default function RootLayout({
         <html lang="en">
             <head>
                 {/* Description no longer than 155 characters */}
-                <meta name="description" content="Kavanah" />
+                <meta name="description" content="Fluxxboard" />
                 {/* Product Name */}
-                <meta name="product-name" content="Kavanah" />
+                <meta name="product-name" content="Fluxxboard" />
                 {/* Twitter Card data */}
                 <meta name="twitter:card" content="summary" />
                 <meta name="twitter:site" content="@ui8" />
-                <meta name="twitter:title" content="Kavanah" />
+                <meta name="twitter:title" content="Fluxxboard" />
                 <meta
                     name="twitter:description"
                     content="AI-powered task manager. Capture every idea in 3 seconds. Turn scattered thoughts into shipped projects."
@@ -47,7 +47,7 @@ export default function RootLayout({
                 />
 
                 {/* Open Graph data for Facebook */}
-                <meta property="og:title" content="Kavanah" />
+                <meta property="og:title" content="Fluxxboard" />
                 <meta property="og:type" content="Article" />
                 <meta
                     property="og:url"
@@ -63,12 +63,12 @@ export default function RootLayout({
                 />
                 <meta
                     property="og:site_name"
-                    content="Kavanah"
+                    content="Fluxxboard"
                 />
                 <meta property="fb:admins" content="132951670226590" />
 
                 {/* Open Graph data for LinkedIn */}
-                <meta property="og:title" content="Kavanah" />
+                <meta property="og:title" content="Fluxxboard" />
                 <meta
                     property="og:url"
                     content="https://ui8.net/ui8/products/bento-cards-simplelist"
@@ -83,7 +83,7 @@ export default function RootLayout({
                 />
 
                 {/* Open Graph data for Pinterest */}
-                <meta property="og:title" content="Kavanah" />
+                <meta property="og:title" content="Fluxxboard" />
                 <meta
                     property="og:url"
                     content="https://ui8.net/ui8/products/bento-cards-simplelist"
