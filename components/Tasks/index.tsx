@@ -110,7 +110,7 @@ const Tasks = ({
                             className={styles.image}
                             src={
                                 completed
-                                    ? "/images/check-circle.svg"
+                                    ? "/images/fluxxboard-star.png"
                                     : "/images/circle-progress.svg"
                             }
                             width={32}
