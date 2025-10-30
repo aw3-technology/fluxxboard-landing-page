@@ -17,6 +17,29 @@ const rubik = Rubik({
 export const metadata: Metadata = {
     title: "FluxxBoard",
     description: "AI-powered task manager. Capture every idea in 3 seconds. AI organizes them instantly. Turn scattered thoughts into shipped projects.",
+    metadataBase: new URL('https://fluxxboard-landing-page.vercel.app'),
+    openGraph: {
+        title: "Fluxxboard",
+        description: "AI-powered task manager. Capture every idea in 3 seconds. Turn scattered thoughts into shipped projects.",
+        url: "https://fluxxboard-landing-page.vercel.app",
+        siteName: "Fluxxboard",
+        images: [
+            {
+                url: "/fluxxboard-social-share.png",
+                width: 1954,
+                height: 1144,
+                alt: "Fluxxboard",
+            },
+        ],
+        locale: "en_US",
+        type: "website",
+    },
+    twitter: {
+        card: "summary_large_image",
+        title: "Fluxxboard",
+        description: "AI-powered task manager. Capture every idea in 3 seconds. Turn scattered thoughts into shipped projects.",
+        images: ["/fluxxboard-social-share.png"],
+    },
 };
 
 export default function RootLayout({
@@ -26,80 +49,6 @@ export default function RootLayout({
 }>) {
     return (
         <html lang="en">
-            <head>
-                {/* Description no longer than 155 characters */}
-                <meta name="description" content="Fluxxboard" />
-                {/* Product Name */}
-                <meta name="product-name" content="Fluxxboard" />
-                {/* Twitter Card data */}
-                <meta name="twitter:card" content="summary" />
-                <meta name="twitter:site" content="@ui8" />
-                <meta name="twitter:title" content="Fluxxboard" />
-                <meta
-                    name="twitter:description"
-                    content="AI-powered task manager. Capture every idea in 3 seconds. Turn scattered thoughts into shipped projects."
-                />
-                <meta name="twitter:creator" content="@ui8" />
-                {/* Twitter Summary card images must be at least 120x120px */}
-                <meta
-                    name="twitter:image"
-                    content="%PUBLIC_URL%/fluxxboard-social-share.png"
-                />
-
-                {/* Open Graph data for Facebook */}
-                <meta property="og:title" content="Fluxxboard" />
-                <meta property="og:type" content="Article" />
-                <meta
-                    property="og:url"
-                    content="https://fluxxboard-landing-page.vercel.app"
-                />
-                <meta
-                    property="og:image"
-                    content="%PUBLIC_URL%/fluxxboard-social-share.png"
-                />
-                <meta property="og:image:width" content="1954" />
-                <meta property="og:image:height" content="1144" />
-                <meta property="og:image:type" content="image/png" />
-                <meta
-                    property="og:description"
-                    content="AI-powered task manager. Capture every idea in 3 seconds. Turn scattered thoughts into shipped projects."
-                />
-                <meta
-                    property="og:site_name"
-                    content="Fluxxboard"
-                />
-                <meta property="fb:admins" content="132951670226590" />
-
-                {/* Open Graph data for LinkedIn */}
-                <meta property="og:title" content="Fluxxboard" />
-                <meta
-                    property="og:url"
-                    content="https://fluxxboard-landing-page.vercel.app"
-                />
-                <meta
-                    property="og:image"
-                    content="%PUBLIC_URL%/fluxxboard-social-share.png"
-                />
-                <meta
-                    property="og:description"
-                    content="AI-powered task manager. Capture every idea in 3 seconds. Turn scattered thoughts into shipped projects."
-                />
-
-                {/* Open Graph data for Pinterest */}
-                <meta property="og:title" content="Fluxxboard" />
-                <meta
-                    property="og:url"
-                    content="https://fluxxboard-landing-page.vercel.app"
-                />
-                <meta
-                    property="og:image"
-                    content="%PUBLIC_URL%/fluxxboard-social-share.png"
-                />
-                <meta
-                    property="og:description"
-                    content="AI-powered task manager. Capture every idea in 3 seconds. Turn scattered thoughts into shipped projects."
-                />
-            </head>
             <body className={cn(rubik.className, hostGrotesk.className)}>
                 <Providers>{children}</Providers>
             </body>
