@@ -15,7 +15,7 @@ const Details = ({}: DetailsProps) => (
                 <div className={styles.check}>
                     <Image
                         className={styles.image}
-                        src="/images/fluxxboard-star.png"
+                        src="/images/details-check.png"
                         width={368}
                         height={727}
                         alt=""
